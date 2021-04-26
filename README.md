@@ -1,2 +1,2 @@
-# TrabalhoPoo
- Trabalho em grupo disciplina Poo, Jogo da Velha
+# Trabalho da Disciplina Poo. 
+ Trabalho em grupo disciplina Poo, Jogo da Velha.
